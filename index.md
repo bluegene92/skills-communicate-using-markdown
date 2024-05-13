@@ -9,3 +9,7 @@ I haven't made any changes yet
 var test = Console.WriteLine("Working");
 
 ```
+
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
